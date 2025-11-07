@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "PWM Portfolio",
+    "slug": "pwm-portfolio-mobile",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
